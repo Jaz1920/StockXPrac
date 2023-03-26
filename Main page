@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+    
+    </title>
+<style>
+
+</style>
+</head>
+
+<body>
+    <table width="100%" border="0" cellpadding="7px" bgcolor="#EEEEEE" id="top">
+        <tr style="font-size: 22px; font-family: Calibri;">
+            <td width="20%"></td>
+            <td>
+                <a href="#" style="text-decoration: none;color: black"> <b>Sneakers</b> </a>
+            </td>
+            <td>
+                <a href="#" style="text-decoration: none;color: black"> <b>Shoes</b> </a>
+            </td>    <td>
+                <a href="#" style="text-decoration: none;color: black"> <b>Apparel</b> </a>
+            </td>    <td>
+                <a href="#" style="text-decoration: none;color: black"> <b>Electronics</b> </a>
+            </td>    <td>
+                <a href="#" style="text-decoration: none;color: black"> <b>Trading Cards</b> </a>
+            </td>    <td>
+                <a href="#" style="text-decoration: none;color: black"> <b>Collectibles</b> </a>
+            </td>    <td>
+                <a href="#" style="text-decoration: none;color: black"> <b>Accessories</b> </a>
+            </td>
+            <td width="20%"></td>
+            <td>
+        </tr>
+        </table>
+    
+    <br>
+    <table width="100%" border="0">
+    <tr>
+        <td align="center">
+            <a href="product1.html" target="main"><img src="shoe.png"></a>
+        </td>
+    </tr>
+    </table>
+
+
+<table width="100%" border="0">
+<tr  >
+    <td colspan="5" cellpadding="50px">
+        <h2 style="font-size: 22px; font-family: Calibri;"> &nbsp;&nbsp;&nbsp;&nbsp;Popular Brands</h2>
+    </td>
+</tr>
+<tr align="center">
+    <td>
+        <a href="#"><img src="jorden.png"></a>
+    </td>
+    <td>
+        <a href="#"><img src="a2.png"></a>
+    </td>
+    <td>
+        <a href="#"><img src="b2.png"></a>
+    </td>
+    
+    <td>
+        <a href="#"><img src="c2.png"></a>
+    </td>
+    
+    <td>
+        <a href="#"><img src="d2.png"></a>
+    </td>
+</tr>
+</table>
+
+<br>
+<table width="100%" border="0">
+    <tr  >
+        <td colspan="5" cellpadding="50px">
+            <h2 style="font-size: 22px; font-family: Calibri;"> &nbsp;&nbsp;&nbsp;&nbsp;Popular Footwear Brands</h2>
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="#"><img src="newbalance.png" class="i1"></a>
+        </td>
+        <td>
+            <a href="#"><img src="Nike.png" class="i1"></a>
+        </td>
+        <td>
+            <a href="#"><img src="Jordan.png" class="i1"></a>
+        </td>
+        
+        <td>
+            <a href="#"><img src="addidas.png" class="i1"></a>
+        </td>
+        
+        <td>
+            <a href="#"><img src="ugg.png" class="i1"></a>
+        </td>
+    </tr>
+    </table>
+    <br>
+    <br>
+    
+<table width="100%">
+<tr align="center">
+    <td>
+        <img src="banner.png">
+    </td>
+</tr>
+</table>
+<a href="#top" target="_self"><button> Clcik me</button></a>
+
+</body> 
+</html>
